@@ -3,7 +3,7 @@
 ------------------------------------------------------------------
 For Termianl:
 ------------------------------------------------------------------
-$ sudo git clone https://github.com/Mo7arouza/Insta_checker.git
+$ sudo git clone https://github.com/thisismo7a/Insta_checker.git
 ------------------------------------------------------------------
 $ cd Insta_checker
 ------------------------------------------------------------------
@@ -12,17 +12,17 @@ $ sudo python KickInsta-Mo7aDevil.py
 ------------------------------------------------------------------
                                                     How It Work ? 
 ------------------------------------------------------------------
-0- Follow My Instagram Account  🙂🙂 @Thisismo7a
+0- Follow My Github Acc
 ------------------------------------------------------------------
-1- Enter The UserName Of the Account You Want To Hack 
+1- Enter The UserName Of the Account You Want To Atack 
 ------------------------------------------------------------------
-2- Enter Your Telegram ID 
+2- Enter Your Telegram ID ( for sending result to ur boot , press entre to skip )
 ------------------------------------------------------------------
-3- Entre Your Telegram Boot Token
+3- Entre Your Telegram Boot Token ( for sending result to ur boot , press entre to skip )
 ------------------------------------------------------------------
-4- Entre The Password list Name File 
+4- Entre The Password list Name File ( should be in the same curent path for the tool )
 ------------------------------------------------------------------
-5- Wait for Hacking ... 
+5- Wait for atacking ... 
 ------------------------------------------------------------------
 ------------------------------------------------------------------
      This work By MO7A_DEVIL Do NOt Still This Script !!!! 
